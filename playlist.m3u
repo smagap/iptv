@@ -4,8 +4,6 @@
 http://tv.ttk.mx:9000
 #EXTINF:-1,Россия 1
 http://tv.ttk.mx:9001
-#EXTINF:-1 tvg-name="Матч ТВ" epgid="!2060",Матч ТВ
-http://tv.ttk.mx:9002
 #EXTINF:-1,НТВ
 http://tv.ttk.mx:9003
 #EXTINF:-1 tvg-name="Пятый канал" epgid="!963",Пятый канал
@@ -14,8 +12,6 @@ http://tv.ttk.mx:9004
 http://tv.ttk.mx:9005
 #EXTINF:-1,Россия 24
 http://tv.ttk.mx:9006
-#EXTINF:-1 tvg-name="Карусель" epgid="!1162",Карусель
-http://tv.ttk.mx:9007
 #EXTINF:-1 tvg-name="ОТР" epgid="!1670",ОТР
 http://tv.ttk.mx:9008
 #EXTINF:-1 tvg-name="ТВЦ" epgid="!1389",ТВЦ
@@ -38,8 +34,6 @@ http://tv.ttk.mx:9016
 http://tv.ttk.mx:9017
 #EXTINF:-1,ТНТ
 http://tv.ttk.mx:9018
-#EXTINF:-1,Муз-ТВ
-http://tv.ttk.mx:9019
 
 #EXTINF:-1,Мосфильм. Золотая коллекция
 http://tv.ttk.mx:9169
