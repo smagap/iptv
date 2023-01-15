@@ -1,17 +1,21 @@
 #EXTM3U url-tvg="http://www.teleguide.info/download/new3/jtv.zip" deinterlace=1  tvg-logo="http://46.151.151.245/logo/%name%.png"
 
+#EXTINF:-1,Россия 24
+http://tv.ttk.mx:9006
 #EXTINF:-1,Первый канал
 http://tv.ttk.mx:9000
+#EXTINF:-1,Первый HD
+http://tv.ttk.mx:9093
 #EXTINF:-1,Россия 1
 http://tv.ttk.mx:9001
+#EXTINF:-1,Россия-1 HD
+http://tv.ttk.mx:9075
 #EXTINF:-1,НТВ
 http://tv.ttk.mx:9003
 #EXTINF:-1 tvg-name="Пятый канал" epgid="!963",Пятый канал
 http://tv.ttk.mx:9004
 #EXTINF:-1 tvg-name="Россия Культура" epgid="!1139",Россия Культура
 http://tv.ttk.mx:9005
-#EXTINF:-1,Россия 24
-http://tv.ttk.mx:9006
 #EXTINF:-1 tvg-name="ОТР" epgid="!1670",ОТР
 http://tv.ttk.mx:9008
 #EXTINF:-1 tvg-name="ТВЦ" epgid="!1389",ТВЦ
@@ -163,10 +167,6 @@ http://tv.ttk.mx:9141
 #EXTINF:-1,Точка отрыва
 http://tv.ttk.mx:9151
 
-#EXTINF:-1,Первый HD
-http://tv.ttk.mx:9093
-#EXTINF:-1,Россия-1 HD
-http://tv.ttk.mx:9075
 #EXTINF:-1,Матч ТВ HD
 http://tv.ttk.mx:9094
 #EXTINF:-1,НТВ HD
