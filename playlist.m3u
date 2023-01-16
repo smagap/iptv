@@ -1,6 +1,5 @@
 #EXTM3U url-tvg="http://www.teleguide.info/download/new3/jtv.zip" deinterlace=1  tvg-logo="http://46.151.151.245/logo/%name%.png"
 
-#EXTGRP:Таврида
 #EXTINF:-1,Россия 24
 http://tv.ttk.mx:9006
 #EXTINF:-1,Первый канал
